@@ -3,6 +3,9 @@ Purple team detection engineering project using Atomic Red Team, Sysmon and Splu
 
 # MITRE ATT&CK Purple Team Detection Pipeline
 
+## Architecture
+*<img width="2048" height="2011" alt="image" src="https://github.com/user-attachments/assets/093e142d-7dd7-44fe-9192-dd51ad42088d" />*
+
 ## Overview
 
 This project demonstrates an end-to-end purple team detection engineering workflow using Atomic Red Team, Sysmon, and Splunk Enterprise. MITRE ATT&CK techniques were executed on a Windows 11 endpoint to simulate adversary behaviour, while Sysmon captured endpoint telemetry that was forwarded to Splunk for analysis.
