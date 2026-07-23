@@ -24,7 +24,8 @@ nmap --top-ports 10 45.33.32.156
 
 ### Results
 
-![Nmap Top Ports Scan](images/side-quests/nmap-top-ports.png)
+<img width="581" height="571" alt="nmap recon" src="https://github.com/user-attachments/assets/de41135a-3020-4fec-988b-125fb4ad131e" />
+
 
 ### Observations
 
@@ -46,7 +47,8 @@ nmap -sV -p 22,80 45.33.32.156
 
 ### Results
 
-![Nmap Service Enumeration](images/side-quests/nmap-service-enumeration.png)
+<img width="807" height="272" alt="nmap open ports services" src="https://github.com/user-attachments/assets/232f79c1-7c76-4d69-adbb-ceadf5375149" />
+
 
 ### Observations
 
