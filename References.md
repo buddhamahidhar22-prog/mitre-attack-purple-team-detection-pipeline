@@ -46,14 +46,6 @@ Official SPL documentation used for query syntax and search commands.
 
 ---
 
-## Splunk Universal Forwarder
-
-The Splunk Universal Forwarder was used to collect Sysmon logs from the Windows endpoint and forward them to Splunk Enterprise.
-
-- https://www.splunk.com/en_us/download/universal-forwarder.html
-
----
-
 ## Windows Event Logging
 
 Microsoft Windows Event Logging documentation used to understand Windows event collection and telemetry.
