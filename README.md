@@ -1,4 +1,4 @@
-# MITRE ATT&CK Purple Team Detection Pipeline
+# MITRE ATT&CK Purple Team Detection Pipeline Project
 Purple team detection engineering project using Atomic Red Team, Sysmon and Splunk to simulate MITRE ATT&amp;CK techniques and validate endpoint detections.
 
 ## Architecture
