@@ -64,7 +64,6 @@ index=* "whoami.exe"
 | rex field=_raw "<Data Name='ParentCommandLine'>(?<ParentCommandLine>[^<]+)</Data>"
 | rex field=_raw "<Data Name='User'>(?<User>[^<]+)</Data>"
 | table _time User Image CommandLine ParentImage ParentCommandLine
-| sort -_time
 ```
 
 ---
