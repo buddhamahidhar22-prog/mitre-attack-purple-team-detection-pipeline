@@ -109,7 +109,7 @@ Validation confirmed:
 *<img width="687" height="347" alt="ipconfig and netsh detected" src="https://github.com/user-attachments/assets/f8e4c447-cbde-4d72-91bd-fb77960cc0e0" />
 *
 
-*<img width="1892" height="856" alt="detected 6 events" src="https://github.com/user-attachments/assets/cea964e4-067f-42bd-be0a-87ec6af192f7" />
+*<img width="1502" height="802" alt="image" src="https://github.com/user-attachments/assets/2fff8f86-7fb6-43e0-954e-390666c3edbe" />
 *
 
 ---
