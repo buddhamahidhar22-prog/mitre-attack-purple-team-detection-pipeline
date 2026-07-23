@@ -55,3 +55,7 @@ This project demonstrates the complete detection engineering lifecycle from adve
 
 - Log Analysis & Event Correlation
 - Threat Detection Validation
+
+## References
+
+Additional references and documentation used throughout this project are available in [References.md](References.md).
